@@ -1,0 +1,38 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+p {
+    font-size: 25px;
+    font-family: Palatino;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    cursor: pointer;
+    color: black;
+    top: 10px;
+    right: 30px;
+}
+
+.line {
+    height: 5px;
+    width: 100px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+ body {
+    font-family: cursive;
+       text-align: center;
+    background-color: #76FF03;
+}
+
+#bandg {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
